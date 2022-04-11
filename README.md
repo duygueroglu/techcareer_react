@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# React Information
+> ES5
+> ES6
+
+```sh
+npx create-react-app techcareer_react
+cd techcareer_react
+npm start
+```
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
